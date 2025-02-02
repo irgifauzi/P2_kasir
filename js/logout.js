@@ -17,7 +17,7 @@ async function logout() {
             footer: "automatically directed to login menu.",
             timer: 2000
         });setTimeout(() => {
-            window.location.href = 'https://ramenkk.github.io/login/login.html';
+            window.location.href = 'https://irgifauzi.github.io/P2_ramenkk/login/login.html';
         }, 2000);
     }
 
@@ -45,7 +45,7 @@ async function logout() {
                 showConfirmButton: false
               });
               setTimeout(() => {
-                window.location.href = 'https://ramenkk.github.io/login/login.html';
+                window.location.href = 'https://irgifauzi.github.io/P2_ramenkk/login/login.html';
               }, 2000);
         } else {
             Swal.fire({
